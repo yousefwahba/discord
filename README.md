@@ -1,7 +1,7 @@
 # Discord
 
 discord landing page clone using html and css only
-
+![preview link](./assets/images/rm-discord.png)
 ## Features
 
 - Responsive design
@@ -9,6 +9,6 @@ discord landing page clone using html and css only
 - toggle menu in small devices without js
 - use postcss ,autoprefixer and cssnano packages for better performance
 
-[preview link](https://discord-clone-yousef.netlify.app/)
+[preview link](https://landing-page-discord.vercel.app/)
 
-![preview link](./assets/images/rm-discord.png)
+
