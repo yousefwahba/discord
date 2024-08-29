@@ -1,7 +1,10 @@
 # Discord
 
 discord landing page clone using html and css only
+
+
 ![preview link](./assets/images/rm-discord.png)
+
 ## Features
 
 - Responsive design
